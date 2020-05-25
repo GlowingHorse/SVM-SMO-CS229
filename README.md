@@ -10,6 +10,8 @@ The kernel function (linear kernel, RBF kernel) is also added to the file
     * [Coordinate Descent](https://cloud.tencent.com/developer/article/1066666)
     * [SMO algorithm](https://zhuanlan.zhihu.com/p/29212107)
 
+-----------------------------------------------------------------------------------------------------------------
+
 * *svm_shi.py* <br>
 该文件中实现了一个简单的SVM，使用SMO进行优化，在选择优化的变量时采用随机选择的方式。
 * *plattSMO.py* <br>
