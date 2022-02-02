@@ -1,6 +1,6 @@
 # svm-smo algorithm (an example in the course CS229)
-* *svm_shi.py* <br>
-A simple SVM is implemented in this file, which uses SMO for optimization and adopts a random selection method when selecting optimized variables.
+* *svm_cn.py* <br>
+A simple SVM is implemented in this file, which uses SMO for optimization and adopts a random selection method when selecting optimized variables. Chinese comments are added.
 * *plattSMO.py* <br>
 Using SMO for optimization. When selecting optimization variables, we choose the two variables with the largest error steps for optimization, which can greatly improve the convergence speed.
 The kernel function (linear kernel, RBF kernel) is also added to the file

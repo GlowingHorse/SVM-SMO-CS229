@@ -1,6 +1,6 @@
 import sys
 from numpy import *
-from svm_shi import *
+from svm_cn import *
 from os import listdir
 from plattSMO import PlattSMO
 import pickle
